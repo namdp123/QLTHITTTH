@@ -139,12 +139,6 @@
     <Compile Include="fPhanQuyen.Designer.cs">
       <DependentUpon>fPhanQuyen.cs</DependentUpon>
     </Compile>
-    <Compile Include="fdoimatkhau.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="fdoimatkhau.Designer.cs">
-      <DependentUpon>fdoimatkhau.cs</DependentUpon>
-    </Compile>
     <Compile Include="fThemNguoiDungVaoNhom.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -201,9 +195,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fPhanQuyen.resx">
       <DependentUpon>fPhanQuyen.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="fdoimatkhau.resx">
-      <DependentUpon>fdoimatkhau.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fThemNguoiDungVaoNhom.resx">
       <DependentUpon>fThemNguoiDungVaoNhom.cs</DependentUpon>
