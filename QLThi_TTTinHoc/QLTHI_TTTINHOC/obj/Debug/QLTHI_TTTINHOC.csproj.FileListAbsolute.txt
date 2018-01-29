@@ -109,3 +109,6 @@ E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\Q
 E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
 E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
 E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+E:\HocTap\ThucTap\QLTTTTH\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+E:\HocTap\ThucTap\QLTTTTH\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+E:\HocTap\ThucTap\QLTTTTH\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb

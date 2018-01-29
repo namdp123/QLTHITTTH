@@ -127,5 +127,10 @@ namespace QLTHI_TTTINHOC
             MessageBox.Show("Thêm thành công");
             loadHocVien();
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
