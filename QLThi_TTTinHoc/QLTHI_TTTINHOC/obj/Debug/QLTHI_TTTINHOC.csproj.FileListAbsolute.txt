@@ -1,0 +1,111 @@
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fCapNhatCauHoiTuFile.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fCapNhatTungCau.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fcauhinh.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fdangnhap.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fLapLichThi.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fMain.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnguoidung.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fPhanQuyen.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fThemNguoiDungVaoNhom.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.Properties.Resources.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csproj.GenerateResource.Cache
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\MyControl.dll
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\MyControl.pdb
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csprojResolveAssemblyReference.cache
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fXemLichThi.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnhomnguoidung.resources
+C:\Users\thanh93\Desktop\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fDangKy.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fcauhinh.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fDangKy.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fdangnhap.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fGiangVien.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fLapLichThi.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fMain.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fmonhoc.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fNguoiDung.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnhomnguoidung.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fPhanQuyen.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fThemNguoiDungVaoNhom.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fXemLichThi.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.Properties.Resources.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csproj.GenerateResource.Cache
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csprojResolveAssemblyReference.cache
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.pdb
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csprojResolveAssemblyReference.cache
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fcauhinh.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fDangKy.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fdangnhap.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fGiangVien.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fLapLichThi.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fMain.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fmonhoc.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fNguoiDung.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnhomnguoidung.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fPhanQuyen.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fThemNguoiDungVaoNhom.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fXemLichThi.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.Properties.Resources.resources
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csproj.GenerateResource.Cache
+D:\123\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fHocVien.resources
+E:\HocTap\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+E:\HocTap\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+E:\HocTap\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.pdb
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csprojResolveAssemblyReference.cache
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fcauhinh.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fDangKy.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fdangnhap.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fGiangVien.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fHocVien.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fLapLichThi.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fMain.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fmonhoc.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fNguoiDung.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnhomnguoidung.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fPhanQuyen.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fThemNguoiDungVaoNhom.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fXemLichThi.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.Properties.Resources.resources
+C:\Users\thanh93\Desktop\123\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csproj.GenerateResource.Cache
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csprojResolveAssemblyReference.cache
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fcauhinh.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fDangKy.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fdangnhap.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fGiangVien.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fHocVien.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fLapLichThi.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fMain.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fmonhoc.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fNguoiDung.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fnhomnguoidung.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fPhanQuyen.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fThemNguoiDungVaoNhom.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.fXemLichThi.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.Properties.Resources.resources
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.csproj.GenerateResource.Cache
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe
+E:\QLThi_TTTinHoc-1\QLThi_TTTinHoc (1)\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.pdb
+E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\bin\Debug\QLTHI_TTTINHOC.exe.config
+E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.exe
+E:\QLThi_TTTinHoc-1\LTWDNC_Nhom05_QuanLyThiTaiTrungTamTinHoc\QLThi_TTTinHoc\QLTHI_TTTINHOC\obj\Debug\QLTHI_TTTINHOC.pdb

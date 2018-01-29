@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLTHI_TTTINHOC" Class="QLTHIDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=THANH\SQD2012;Initial Catalog=QLTHI_TTTINHOC;User ID=sa" SettingsObjectName="QLTHI_TTTINHOC.Properties.Settings" SettingsPropertyName="QLTHI_TTTINHOCConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DANGKY" Member="DANGKies">
+    <Type Name="DANGKY">
+      <Column Name="makhoa" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="mamon" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="mahocvien" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="diem" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="DANGKY_LICHTHI" Member="LICHTHIs" ThisKey="makhoa,mamon,mahocvien" OtherKey="makhoa,mamon,mahocvien" Type="LICHTHI" />
+      <Association Name="HOCVIEN_DANGKY" Member="HOCVIEN" ThisKey="mahocvien" OtherKey="mahocvien" Type="HOCVIEN" IsForeignKey="true" />
+      <Association Name="KHOAHOC_DANGKY" Member="KHOAHOC" ThisKey="makhoa" OtherKey="makhoa" Type="KHOAHOC" IsForeignKey="true" />
+      <Association Name="MONHOC_DANGKY" Member="MONHOC" ThisKey="mamon" OtherKey="mamon" Type="MONHOC" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HOCVIEN" Member="HOCVIENs">
+    <Type Name="HOCVIEN">
+      <Column Name="mahocvien" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenhocvien" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="ngaysinh" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dienthoai" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="HOCVIEN_DANGKY" Member="DANGKies" ThisKey="mahocvien" OtherKey="mahocvien" Type="DANGKY" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LICHTHI" Member="LICHTHIs">
+    <Type Name="LICHTHI">
+      <Column Name="makhoa" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="mamon" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="mahocvien" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="maphong" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ngaythi" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tietthi" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="magv" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="thoiluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DANGKY_LICHTHI" Member="DANGKY" ThisKey="makhoa,mamon,mahocvien" OtherKey="makhoa,mamon,mahocvien" Type="DANGKY" IsForeignKey="true" />
+      <Association Name="GIANGVIEN_LICHTHI" Member="GIANGVIEN" ThisKey="magv" OtherKey="magv" Type="GIANGVIEN" IsForeignKey="true" />
+      <Association Name="PHONGHOC_LICHTHI" Member="PHONGHOC" ThisKey="maphong" OtherKey="maphong" Type="PHONGHOC" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MONHOC_KHOAHOC" Member="MONHOC_KHOAHOCs">
+    <Type Name="MONHOC_KHOAHOC">
+      <Column Name="mamon" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="makhoa" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="KHOAHOC_MONHOC_KHOAHOC" Member="KHOAHOC" ThisKey="makhoa" OtherKey="makhoa" Type="KHOAHOC" IsForeignKey="true" />
+      <Association Name="MONHOC_MONHOC_KHOAHOC" Member="MONHOC" ThisKey="mamon" OtherKey="mamon" Type="MONHOC" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHOAHOC" Member="KHOAHOCs">
+    <Type Name="KHOAHOC">
+      <Column Name="makhoa" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenkhoa" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="ngaybd_thi" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="KHOAHOC_DANGKY" Member="DANGKies" ThisKey="makhoa" OtherKey="makhoa" Type="DANGKY" />
+      <Association Name="KHOAHOC_MONHOC_KHOAHOC" Member="MONHOC_KHOAHOCs" ThisKey="makhoa" OtherKey="makhoa" Type="MONHOC_KHOAHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GIANGVIEN" Member="GIANGVIENs">
+    <Type Name="GIANGVIEN">
+      <Column Name="magv" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tengv" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="dienthoai" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="trinhdo" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="ngayvaolam" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="GIANGVIEN_LICHTHI" Member="LICHTHIs" ThisKey="magv" OtherKey="magv" Type="LICHTHI" />
+      <Association Name="GIANGVIEN_MONHOC" Member="MONHOCs" ThisKey="magv" OtherKey="magv" Type="MONHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHONGHOC" Member="PHONGHOCs">
+    <Type Name="PHONGHOC">
+      <Column Name="maphong" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="vitri" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="succhua" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="PHONGHOC_LICHTHI" Member="LICHTHIs" ThisKey="maphong" OtherKey="maphong" Type="LICHTHI" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MONHOC" Member="MONHOCs">
+    <Type Name="MONHOC">
+      <Column Name="mamon" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="magv" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="tenmonhoc" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="siso" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sotc" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="thoigianbd" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="thoigiankt" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="thoigianthi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MONHOC_DANGKY" Member="DANGKies" ThisKey="mamon" OtherKey="mamon" Type="DANGKY" />
+      <Association Name="MONHOC_MONHOC_KHOAHOC" Member="MONHOC_KHOAHOCs" ThisKey="mamon" OtherKey="mamon" Type="MONHOC_KHOAHOC" />
+      <Association Name="GIANGVIEN_MONHOC" Member="GIANGVIEN" ThisKey="magv" OtherKey="magv" Type="GIANGVIEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
