@@ -25,7 +25,7 @@ namespace QLTHI_TTTINHOC
             textBoxX2.Text = dataGridViewX1.CurrentRow.Cells[1].Value.ToString();
             if (dataGridViewX1.CurrentRow.Cells[2].Value.ToString() == "Nữ")
             {
-                radioButton2.Checked = true;
+                radioButton2.Checked = false;
             }
             else
                 radioButton1.Checked = true;

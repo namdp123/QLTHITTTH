@@ -36,7 +36,7 @@ namespace QLTHI_TTTINHOC
             {
                 Program.fcauhinh = new fcauhinh();
             }
-            this.Visible = false;
+            this.Visible = true;
             Program.fcauhinh.Show();
 
 
@@ -63,7 +63,7 @@ namespace QLTHI_TTTINHOC
             // Account had been disabled
             else if (result == LoginResult.Disabled)
             {
-                MessageBox.Show("Tài khoản bị khóa");
+                MessageBox.Show("Tài khoản không tồn tại");
                 return;
             }
             if (Program.mainForm == null || Program.mainForm.IsDisposed)
