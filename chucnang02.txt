@@ -1,0 +1,5 @@
+if (i%10 ==0)
+{
+	return b;
+}
+return a;
